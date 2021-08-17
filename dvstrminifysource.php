@@ -40,6 +40,10 @@ class PlgSystemDvstrMinifySource extends JPlugin
         if ($app->isAdmin()) return;
 
         $doc = JFactory::getDocument();
+        $path_root = JPATH_ROOT . DIRECTORY_SEPARATOR;
+        $path_cache = '/cache/' . $app->getTemplate() . '/';
+        $uniname_css = $path_cache . $app->getTemplate() . '.min.css';
+
         $minify_css = $this->params->get('minify_css');
         $minify_js = $this->params->get('minify_js');
         $unified_css = $this->params->get('unified_css');
@@ -47,11 +51,8 @@ class PlgSystemDvstrMinifySource extends JPlugin
         $extensions_css = $this->params->get('extensions_css');
         $defer_js = $this->params->get('defer_js');
         $exclude_js = ['jquery.min.js'];
-        $uniname_css = $path_cache . $app->getTemplate() . '.min.css';
 
         // Check cache folder
-        $path_root = JPATH_ROOT . DIRECTORY_SEPARATOR;
-        $path_cache = '/cache/' . $app->getTemplate() . '/';
         if (!is_dir($path_root . $path_cache)) {
             JFolder::create($path_root . $path_cache);
         }
