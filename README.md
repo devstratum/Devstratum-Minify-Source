@@ -14,6 +14,12 @@ Plugin for minify CSS and JavaScript source code file for CMS Joomla
 * Minify JavaScript
 * JavaScript Defer attribute
 
+## Description
+
+Plugin use package [Minify](https://github.com/matthiasmullie/minify)  from [Matthias Mullie](https://github.com/matthiasmullie)
+
+[Review plugin in russian](https://devstratum.ru/software/devstratum-jmp-minify-source-plagin-minimizatsii-resursov-dlya-cms-joomla)
+
 ## Install
 
 Standart install in CMS Joomla - Upload Package File:
