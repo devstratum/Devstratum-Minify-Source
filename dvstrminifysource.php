@@ -120,6 +120,7 @@ class PlgSystemDvstrMinifySource extends JPlugin
                         $array_css[] = $key;
                     }
                 }
+                
                 if ($minifier->minify($path_root . $uniname_css)) {
                     $doc->_styleSheets = [];
                     foreach ($array_css as $item) {
