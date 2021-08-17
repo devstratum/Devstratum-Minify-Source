@@ -22,7 +22,7 @@ Plugin use package [Minify](https://github.com/matthiasmullie/minify)  from [Mat
 
 ## Install
 
-Go to Releases and download zip archive:
+Go to [Releases](https://github.com/devstratum/Devstratum-JMP-Minify-Source/releases) and download zip archive:
 
 **plg_dvstr_minifysource_v1.3.zip**
 
