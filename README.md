@@ -26,7 +26,7 @@ Go to [Releases](https://github.com/devstratum/Devstratum-JMP-Minify-Source/rele
 
 **plg_dvstr_minifysource_v1.3.zip**
 
-Standart install in CMS Joomla - Upload Package File
+Standart install in CMS Joomla -> Upload Package File
 
 ## Info
 
