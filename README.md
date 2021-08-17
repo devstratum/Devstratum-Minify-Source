@@ -22,11 +22,11 @@ Plugin use package [Minify](https://github.com/matthiasmullie/minify)  from [Mat
 
 ## Install
 
+Go to Releases from download zip archive
+
 Standart install in CMS Joomla - Upload Package File:
 
 **plg_dvstr_minifysource_v1.3.zip**
-
-Go to Releases from download zip archive
 
 ## Info
 
