@@ -1,6 +1,6 @@
 # Devstratum JMP Minify Source
 
-Plugin for minify CSS and JavaScript source code for CMS Joomla
+Plugin for minify CSS and JavaScript source code file for CMS Joomla
 
 ![product preview](https://github.com/devstratum/Devstratum-JMP-Minify-Source/blob/main/devstratum-jmp-minifysource.jpg)
 
