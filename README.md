@@ -16,7 +16,7 @@ Plugin for minify CSS and JavaScript source code file for CMS Joomla
 
 ## Description
 
-Plugin use package [Minify](https://github.com/matthiasmullie/minify)  from [Matthias Mullie](https://github.com/matthiasmullie)
+Plugin uses package [Minify](https://github.com/matthiasmullie/minify)  from [Matthias Mullie](https://github.com/matthiasmullie)
 
 [Just plugin overview](https://devstratum.ru/software/devstratum-jmp-minify-source-plagin-minimizatsii-resursov-dlya-cms-joomla)
 
