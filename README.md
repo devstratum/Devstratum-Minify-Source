@@ -17,6 +17,7 @@ Plugin for minify CSS and JavaScript source code for CMS Joomla
 ## Install
 
 Standart install in CMS Joomla - Upload Package File:
+
 **plg_dvstr_minifysource_v1.3.zip**
 
 ## Info
