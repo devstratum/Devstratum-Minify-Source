@@ -11,22 +11,27 @@ Plugin for minify CSS and JavaScript source code file for CMS Joomla
 * Exclude jQuery
 * Minify CSS
 * CSS unified file
+* Embed image files in CSS
 * Minify JavaScript
 * JavaScript Defer attribute
 
+## Dependencies
+
+Plugin uses package [Minify](https://github.com/matthiasmullie/minify) from [Matthias Mullie](https://github.com/matthiasmullie)
+
 ## Description
 
-Plugin uses package [Minify](https://github.com/matthiasmullie/minify)  from [Matthias Mullie](https://github.com/matthiasmullie)
+Requirments Joomla 3.9+
 
 [Just plugin overview](https://devstratum.ru/software/devstratum-jmp-minify-source-plagin-minimizatsii-resursov-dlya-cms-joomla)
 
-## Install
+## Installation
 
 Go to [Releases](https://github.com/devstratum/Devstratum-JMP-Minify-Source/releases) and download zip archive:
 
-**plg_dvstr_minifysource_v1.3.zip**
+**plg_dvstr_minifysource**
 
-Standart install in CMS Joomla -> Upload Package File
+Standart install in CMS Joomla ->  Upload Package File
 
 ## Info
 
