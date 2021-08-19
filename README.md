@@ -17,7 +17,7 @@ Plugin for minify CSS and JavaScript source code file for CMS Joomla
 
 ## Dependencies
 
-Plugin uses package [Minify](https://github.com/matthiasmullie/minify) from [Matthias Mullie](https://github.com/matthiasmullie)
+Plugin uses package [Minify](https://github.com/matthiasmullie/minify)
 
 ## Description
 
